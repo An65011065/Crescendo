@@ -73,7 +73,7 @@ export default function Journey() {
                                     Three builders.
                                     <br />
                                     <span className="text-blue-600">
-                                        One semester.
+                                        Five months.
                                     </span>
                                 </h3>
                                 <p className="text-xl text-gray-700 leading-relaxed">
@@ -186,7 +186,7 @@ export default function Journey() {
                                 04 — THE FEATURES
                             </div>
                             <h3 className="text-4xl md:text-6xl font-black text-black leading-tight">
-                                Four screens. Infinite possibilities.
+                                Core features that built Crescendo.
                             </h3>
                         </div>
 
