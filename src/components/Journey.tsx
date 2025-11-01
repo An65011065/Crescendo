@@ -100,7 +100,7 @@ export default function Journey() {
                                     <div className="flex items-center gap-3">
                                         <div className="w-2 h-2 bg-orange-500 rounded-full"></div>
                                         <span className="text-lg font-bold">
-                                            Hedaram Solano '25
+                                            Hedavam Solano '25
                                         </span>
                                     </div>
                                 </div>
