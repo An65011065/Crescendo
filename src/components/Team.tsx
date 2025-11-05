@@ -109,11 +109,11 @@ export default function Team() {
                             Philip Caplan
                         </h3>
                         <p className="text-xl text-gray-300 leading-relaxed">
-                            Our advisor guided us through Agile development
-                            methodologies, version control best practices, and
-                            ethical data handling. He provided invaluable
-                            insights on scalability, user privacy, and system
-                            architecture throughout the development process.
+                            Philip helped us every step of the way—from learning
+                            Agile development and version control to writing our
+                            ethical statements and designing the presentation
+                            poster. His guidance on user privacy and the scope
+                            of features was essential to our project.
                         </p>
                     </div>
                 </div>
