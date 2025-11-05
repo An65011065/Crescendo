@@ -106,7 +106,7 @@ export default function Team() {
                             ADVISED BY
                         </p>
                         <h3 className="text-4xl font-black mb-4">
-                            Philip Chaplan
+                            Philip Caplan
                         </h3>
                         <p className="text-xl text-gray-300 leading-relaxed">
                             Our advisor guided us through Agile development

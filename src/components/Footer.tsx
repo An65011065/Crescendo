@@ -54,7 +54,7 @@ export default function Footer() {
                             Tailwind CSS.
                         </p>
                         <p className="text-gray-500 text-sm">
-                            Advised by Philip Chaplan
+                            Advised by Philip Caplan
                         </p>
                     </div>
                 </div>

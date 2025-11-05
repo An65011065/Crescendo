@@ -41,7 +41,7 @@ export default function Hero() {
                             <span className="block text-white font-bold">
                                 Advised by
                             </span>
-                            Philip Chaplan
+                            Philip Caplan
                         </div>
                         <div>
                             <span className="block text-white font-bold">
